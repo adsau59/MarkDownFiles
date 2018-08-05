@@ -1,6 +1,6 @@
 # DefineX Miner
 
-In end of 2018, a group was formed called DefineX Miner who were interested in investing in Cryptocurrency but didn't want to invest in it directly as it is very unstable, so they opt to GPU mine cryptocurrency instead.
+In end of 2017, a group was formed called DefineX Miner who were interested in investing in Cryptocurrency but didn't want to invest in it directly as it is very unstable, so they opt to GPU mine cryptocurrency instead.
 
 Group Administrators:
 
