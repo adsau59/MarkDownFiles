@@ -5,11 +5,12 @@ The list of skills below signifies the technology I have already worked with, bu
 Skills includes programming languages, API, and softwares. The list doesn't include many Python libraries as including each of them would make the list huge.
 
 ### Programming Languages : 
-Java, Python, C#, C++, PhP, JavaScript
+Java, Python, C#, C++, PhP, JavaScript, GDScript
 
 ### Game Development:
 - OpenGL
 - Unity Game Engine
+- Godot Engine
 - Adobe Flash Professional/Animate
 - Spine2D
 
