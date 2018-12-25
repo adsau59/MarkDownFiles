@@ -5,7 +5,7 @@ The list of skills below signifies the technology I have already worked with, bu
 Skills includes programming languages, API, and softwares. The list doesn't include many Python libraries as including each of them would make the list huge.
 
 ### Programming Languages : 
-Java, Python, C#, C++, PhP, JavaScript, GDScript
+Java, Python, C#, C++, PhP, TypeScript, JavaScript, GDScript
 
 ### Game Development:
 - OpenGL
@@ -18,10 +18,12 @@ Java, Python, C#, C++, PhP, JavaScript, GDScript
 - Android Studio
 - Android API
 - Visual Studio
-- dot NET
+- .NET
+- .NET Core
 
 ### Web Development:
-- HTML/CSS
+- HTML/CSS/JS
+- Angular 6
 - Angular JS
 - ASP.NET
 - Python Flask
