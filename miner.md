@@ -48,9 +48,9 @@ Group Administrators:
 
 - When news about LaxmiCoin Whitepaper release and ICO was announced, DefineX miner sponsered two members of the group, Bilal Zaveri and Adam Saudagar to attend it in Jaipur.
 
-### Mining is ON
+### Mining is OFF
 
-- Crypto Mining, selling and distributing profit between members is still on.
+- We are sorry to say but seems like the time has come for us to say goodbye.
 - It has been a wonderful experience from just an idea to a huge machine running day and night.
 
 ### Talk to us
